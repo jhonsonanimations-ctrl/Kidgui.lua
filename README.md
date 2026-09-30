@@ -1,0 +1,2 @@
+# Kidgui.lua
+Ezz -skids
